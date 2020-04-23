@@ -1,2 +1,2 @@
-# BreveSuspension_Proyecto
-Proyecto final exposición satélite
+# BreveSuspension
+Instalación audiovisual interactiva. Obra expuesta en "Satélite" cheLa

@@ -1,2 +1,5 @@
 # BreveSuspension
-Instalación audiovisual interactiva. Obra expuesta en "Satélite" cheLa
+
+Interactive audiovisual art installation exhibited at "Satélite" cheLa.
+
+Author: Paula Cáceres
